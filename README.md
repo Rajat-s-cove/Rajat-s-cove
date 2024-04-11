@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajat Negi (@Rajat-s-cove)  , a professional with 2+ years of professinal experience in  IT.
+- 👋 Hi, I’m Rajat Negi (@Rajat-s-cove)  , a highly dedicated individual with 2+ years of professional experience in  IT.
 - 👀 I’m interested in C/C++/embedded C development roles.
 - 🌱 I’m currently learning modern C++ and its application in the embedded Systems. With electrical engg. backgorund,my interest is more inclined towards modern sophisticated electronic systems.
 - 💞️ I’m looking to secure a job in the tech sector where my code interacts with the hardware. Isn't it amazing to see both software and hardware work together.
